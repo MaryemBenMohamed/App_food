@@ -1,0 +1,63 @@
+.img{
+background-color: #FFDEAD;
+
+	text-align: center;
+    line-height: 18px;
+    width: 591px;
+    height: 100px;
+    margin-left:auto;
+    margin-right:auto
+}
+.cakes{
+
+ position: absolute;
+  top: 18%;
+  left: 35.5%;
+  transform: translate(-18%, -35.5%);
+  color: #FFDEAD;
+  font-size: 30px;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  }
+.foods{
+ position: absolute;
+  top: 50%;
+  left: 60%;
+  transform: translate(-50%, -60%);
+  color: #FFDEAD;
+  font-size: 30px;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+.drinks{
+ position: absolute;
+  top: 82%;
+  left: 38%;
+  transform: translate(-82%, -38%);
+  color: #FFDEAD;
+  font-size: 30px;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+.img1 img{
+  top: 10px;
+  left: 80%;
+  right: 80%
+   transform: translate(-10px, -80%);
+}
+#nav {
+	padding: 0; margin: 0;
+	text-align: center; /* centrer le texte */
+}
+#nav {
+
+	   float: left;
+       color: #ffffff;
+
+       height: 36px;
+       line-height: 33px;
+       padding: 0 10px;
+       margin: 0 120px;
+       font-family: sans-serif;
+       font-size: 13px;
+       transition: .5s;
+}
+

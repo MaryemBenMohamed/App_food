@@ -1,0 +1,34 @@
+.img{
+background-color: #FFDEAD;
+
+	text-align: center;
+    line-height: 30px;
+    width: 591px;
+    height: 100px;
+    margin-left:auto;
+    margin-right:auto
+}
+.cakes{
+
+ position: absolute;
+  top: 32%;
+  left: 35.5%;
+  transform: translate(-32%, -35.5%);
+  color: #FFDEAD;
+  font-size: 30px;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  }
+.sweets{
+ position: absolute;
+  top: 72%;
+  left: 63%;
+  transform: translate(-72%, -63%);
+  color: #FFDEAD;
+  font-size: 30px;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+.txt{
+  color: #E86515 ;
+  font-family: OCR A Std, monospace;
+  text-size: 40px;
+}

@@ -1,0 +1,19 @@
+.img{
+background-color: #FFDEAD;
+
+	text-align: center;
+    line-height: 18px;
+    width: 400px;
+    height: 80px;
+    margin-left:auto;
+    margin-right:auto
+}
+.txt{
+  color: #E71D4E;
+  font-family: OCR A Std, monospace;
+  text-size: 40px;
+}
+.bjaouia{
+width: 400px;
+height:300px;
+}

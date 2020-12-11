@@ -1,0 +1,33 @@
+.img{
+background-color: #FFDEAD;
+
+	text-align: center;
+    line-height: 18px;
+    width: 591px;
+    height: 100px;
+    margin-left:auto;
+    margin-right:auto
+}
+.kaak{
+position: absolute;
+  top: 30%;
+  left: 40%;
+  transform: translate(-30%, -40%);
+  color: #FFDEAD;
+  font-size: 30px;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+.bjaouia{
+ position: absolute;
+  top: 70%;
+  left: 44%;
+  transform: translate(-70%, -44%);
+  color: #FFDEAD;
+  font-size: 30px;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+.txt{
+  color: #20C434;
+  font-family: OCR A Std, monospace;
+  text-size: 40px;
+}
