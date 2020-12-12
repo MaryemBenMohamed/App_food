@@ -8,20 +8,29 @@ background-color: #FFDEAD;
     margin-left:auto;
     margin-right:auto
 }
-.chocolate{
+.cj{
 position: absolute;
-  top: 30%;
-  left: 55%;
-  transform: translate(-30%, -55%);
+  top: 28%;
+  left: 57%;
+  transform: translate(-28%, -57%);
   color: #FFDEAD;
   font-size: 30px;
   font-family: Comic Sans MS, Comic Sans, cursive;
 }
-.strawberry{
+.sj{
  position: absolute;
-  top: 70%;
-  left: 62%;
-  transform: translate(-70%, -62%);
+  top: 65%;
+  left: 61%;
+  transform: translate(-65%, -61%);
+  color: #FFDEAD;
+  font-size: 30px;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+.kj{
+ position: absolute;
+  top: 100%;
+  left: 67%;
+  transform: translate(-100%, -67%);
   color: #FFDEAD;
   font-size: 30px;
   font-family: Comic Sans MS, Comic Sans, cursive;

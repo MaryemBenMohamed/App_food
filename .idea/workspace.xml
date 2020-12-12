@@ -1,13 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cef8a1d6-fe13-4f10-bc68-98fa6ba80bc7" name="Default Changelist" comment="" />
+    <list default="true" id="cef8a1d6-fe13-4f10-bc68-98fa6ba80bc7" name="Default Changelist" comment="Modification">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/coctail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/coffee.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/cold_drinks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/css/coctail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/css/coffee.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/css/cold_drinks.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/css/drinks_menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/css/hot_chocolate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/css/hot_drinks.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/css/kiwi.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/css/strawberry.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/css/tea.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/drinks_menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/hot_chocolate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/hot_drinks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/img/chaud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/img/coffe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/img/d1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/img/d2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/img/d3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/img/d4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/img/d5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/img/d6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/img/d7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/img/d8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/img/d9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/img/tea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/kiwi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/strawberry.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/tea.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/Sweets.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/Sweets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/cakes.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/cakes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/cakes_sweets.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/cakes_sweets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/chocolat_cakes.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/chocolat_cakes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/Sweets.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/css/Sweets.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/cakes.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/css/cakes.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/cakes_sweets.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/css/cakes_sweets.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/chocolat_cakes.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/css/chocolat_cakes.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/fraise_cakes.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/css/fraise_cakes.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/kaak_sweet.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/css/kaak_sweet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/css/menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/sweet_chocolat.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/css/sweet_chocolat.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/fraise_cakes.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/fraise_cakes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/kaak_sweet.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/kaak_sweet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/sweet_chocolat.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/sweet_chocolat.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lNH15TK0aOPdvoleupxzEmIpbi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,10 +84,38 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Modification" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modification" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1607728414901">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607728414901" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1607527489503">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607527489503" />
+    <state x="561" y="261" key="Github.ShareDialog" timestamp="1607728539762">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="561" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1607728539762" />
+    <state x="473" y="69" key="Github.UntrackedFilesDialog" timestamp="1607698797254">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="473" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1607698797254" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1607785178692">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1607785178692" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1607728825356">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607728825356" />
+    <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607728442945">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1607728442945" />
   </component>
 </project>

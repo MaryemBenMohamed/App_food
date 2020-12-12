@@ -2,32 +2,33 @@
 background-color: #FFDEAD;
 
 	text-align: center;
-    line-height: 18px;
+    line-height: 25px;
     width: 591px;
     height: 100px;
     margin-left:auto;
     margin-right:auto
 }
-.chocolate{
-position: absolute;
+.hot{
+
+ position: absolute;
   top: 30%;
-  left: 55%;
-  transform: translate(-30%, -55%);
+  left: 37%;
+  transform: translate(-30%, -37%);
   color: #FFDEAD;
   font-size: 30px;
   font-family: Comic Sans MS, Comic Sans, cursive;
-}
-.strawberry{
+  }
+.cold{
  position: absolute;
-  top: 70%;
-  left: 62%;
-  transform: translate(-70%, -62%);
+  top: 72%;
+  left: 63%;
+  transform: translate(-72%, -63%);
   color: #FFDEAD;
   font-size: 30px;
   font-family: Comic Sans MS, Comic Sans, cursive;
 }
 .txt{
-  color: #20C434;
+  color: #E86515 ;
   font-family: OCR A Std, monospace;
   text-size: 40px;
 }
